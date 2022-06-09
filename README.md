@@ -11,7 +11,7 @@ I've been learning to code for 3 years now and ended up graduating in AI Enginee
 * ✉️  You can contact me at [fvarelacid@gmail.com](mailto:fvarelacid@gmail.com)
 * 🚀  I'm currently working on [Backapp](http://github.com/fvarelacid/BackApp)
 * 🧠  I'm learning Deep Learning
-* 🤝  I'm open to collaborating on great, world changing project
+* 🤝  I'm open to collaborating on a great, world changing project!
 * ⚡  I'm a serious and funny dancer
 
 ### Skills
